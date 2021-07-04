@@ -53,5 +53,5 @@ number 1 higher than the highest currently in the directory.
 
 ## Screenshots
 
-![screenshot](https://ibb.co/MCN8bHr)
-![screenshot](https://ibb.co/W5SSbqT)
+![](https://i.ibb.co/TRKYMwB/Screenshot-4.png)
+![](https://i.ibb.co/VTqDDyb/Screenshot-5.png)
