@@ -3,6 +3,11 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Instructions](#instructions)
+* [Controls](#controls)
+* [Rules](#rules)
+* [Level editing](#level-editing)
+* [Screenshots](#screenshots)
 
 ## General info
 This is simple sokoban game made in C++ using object oriented paradigm.
@@ -31,7 +36,7 @@ somehow push brown boxes onto blue plates, and then stand on the green exit.
 After everything is in its place, the level is finished and the congratulations screen is displayed which lasts for 3
 seconds, and then immediately level 2 is displayed
 
-## In game there are few controls:
+## Controls
 * Up arrow - player goes up
 * Down arrow - player goes down
 * Left arrow - player goes left
@@ -39,7 +44,7 @@ seconds, and then immediately level 2 is displayed
 * R button - restarts level
 
 
-## A quick info about rules:
+## Rules
 * Player cannot walk into walls.
 * Player can push a box.
 * Player cannot push a box if behind it is another box or a wall.
